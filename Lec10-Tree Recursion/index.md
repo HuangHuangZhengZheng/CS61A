@@ -26,7 +26,7 @@ def fib(n):
 def count_partitions(n, m):
     """
     >>> count_partitions(6, 4)
-    >>> 9
+    9
     """
     if n == 0:
         return 1
